@@ -11,6 +11,6 @@ https://chaos.grand-challenge.org/
 https://sliver07.grand-challenge.org/
 
 ##
-please download the model weight from https://pan.baidu.com/s/1aKZhbTeL7dYjYMG4eJahfA code:mdkh
+please download the model weight from [google drive](https://drive.google.com/file/d/1ek3MCKmffLJNM40-8xautd8Y-PVL6ysP/view?usp=sharing)
 and put the 'best.pth' into 'weights'
 
